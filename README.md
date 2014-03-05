@@ -9,5 +9,5 @@ This will help you map all the Main files from your Bower dependencies.
 This implementation is based on: Christopher Knötschke's implementation that can be found at:
 https://github.com/ck86/gulp-bower-files.git
 
-The only difference is that this will output an object of you main files
+The only difference is that this will output an object of your main files
 
