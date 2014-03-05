@@ -1,5 +1,5 @@
 {
-  "name": "gulp-bower-src",
+  "name": "gulp-bower-source",
   "version": "0.0.1",
   "description": "Build object of your bower packages main files.",
   "main": "index.js",
