@@ -1,0 +1,28 @@
+{
+  "name": "gulp-bower-src",
+  "version": "0.0.1",
+  "description": "Build object of your bower packages main files.",
+  "main": "index.js",
+  "author": {
+    "name": "Marius Talagiu",
+    "email": "marius@phanmedia.ro"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "~3.5.0"
+  },
+  "dependencies": {
+    "gulp-util": "~2.2.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ck86/gulp-bower-files.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ck86/gulp-bower-files/issues"
+  },
+  "homepage": "https://github.com/ck86/gulp-bower-files",
+  "readmeFilename": "README.md",
+  "_id": "gulp-bower-src@0.0.1",
+  "_from": "gulp-bower-src@0.0.1"
+}
